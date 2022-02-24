@@ -1,0 +1,14 @@
+﻿1	2	=> Bạn Cần Cố Gắng Hơn 
+1	1	=> Bạn Cần Cố Gắng Hơn 
+1	1	=> Bạn Cần Cố Gắng Hơn 
+1	0	=> Bạn Cần Cố Gắng Hơn 
+1	1	=> Bạn Cần Cố Gắng Hơn 
+1	5	=> Cũng Tạm Được!!! 
+1	4	=> Bạn Cần Cố Gắng Hơn 
+1	3	=> Bạn Cần Cố Gắng Hơn 
+1	0	=> Bạn Cần Cố Gắng Hơn 
+1	1	=> Bạn Cần Cố Gắng Hơn 
+1	1	=> Ban Can Co Gang Hon 
+1	1	=> Ban Can Co Gang Hon 
+1	1	=> Ban Can Co Gang Hon 
+2	1	=> Ban Can Co Gang Hon 

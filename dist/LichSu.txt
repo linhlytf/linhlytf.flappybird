@@ -1,0 +1,9 @@
+1	4	=> Ban Can Co Gang Hon 
+2	2	=> Ban Can Co Gang Hon 
+3	1	=> Ban Can Co Gang Hon 
+4	1	=> Ban Can Co Gang Hon 
+5	1	=> Ban Can Co Gang Hon 
+6	2	=> Ban Can Co Gang Hon 
+7	6	=> Cung Tam Duoc 
+8	2	=> Ban Can Co Gang Hon 
+1	7	=> Cung Tam Duoc 
